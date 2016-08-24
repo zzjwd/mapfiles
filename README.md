@@ -1,7 +1,5 @@
 # mapfiles
 
-> mapfiles
-
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
 
@@ -87,3 +85,6 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 _(Nothing yet)_
+=======
+生成静态模板，用于框架
+
